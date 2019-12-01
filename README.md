@@ -91,5 +91,5 @@ Descrição:
 
 - O sistema deve estar preparado para internacionalização
 - O sistema deve ter suporte aos idiomas Português e Inglês
-- O sistema deve ter um componente para a criação de formulários
+- O sistema deve ter um componente para a criação de formulários, tenha em mente que o formulário será reaproveitado em todas as demais telas que você irá criar e o objetivo é não duplicar código.
 - O sistema deve ser desenvolvido utilizando um destes frameworks: AngularJS, Angular, React, VueJS ou VanillaJS
